@@ -58,4 +58,4 @@ do
 
 
 
-//profe la verdad ya se me achichanorro el cerebro, me marca errores si uso el lunguaje de c++ pero tampoco me auto completa con c tons ya me hize bolas, pero ahí esta mas o menos lo poqito que entendi
+//profe la verdad ya se me achichanorro el cerebro, me marca errores si uso el lunguaje de c++ pero tampoco me auto completa con c tons ya me hize bolas, pero ahí esta mas o menos lo poqito que entendi.
